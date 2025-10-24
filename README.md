@@ -22,4 +22,11 @@ To get started with the project, follow these steps:
    pip install -r requirements.txt
 ```
 
-1. Explore the Jupyter notebooks in the `notebooks/` directory for data analysis and model development.
+## Reproducing Results
+
+Explore the Jupyter notebooks in the `notebooks/` directory for data analysis and model development.
+
+1. Use the visualization notebook to explore the data and visualize key insights.
+2. Run the preprocessing notebook to clean and prepare the data for modeling.
+3. Execute the prediction notebook to predict the generations for the next 5 years.
+4. Use the monte carlo simulation notebook to perform risk analysis and valuation.
