@@ -1,5 +1,8 @@
 pandas
-matplotlib
+xgboost
 numpy
+scikit-learn
+statsmodels
+prophet
 seaborn
 scipy
